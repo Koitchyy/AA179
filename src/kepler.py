@@ -13,7 +13,7 @@ def elem2coord(a,e,i,w,W,M0,t0,t,mu):
     #% INPUTS
     #% a - semimajor axis
     #% e - eccentricity
-    #% i - inclination
+    #% i - inclination (radians)
     #% w - argument of pericenter (pericenter is the same as periapsis)
     #% W - longitude of the accending nodes
     #% M0 - mean anomaly at time t0
